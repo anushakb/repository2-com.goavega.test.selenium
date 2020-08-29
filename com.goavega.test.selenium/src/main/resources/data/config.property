@@ -1,0 +1,12 @@
+browser chrome
+url http://java.goavega.learn-wize.com
+username Java
+password Password@123
+eHomeTitle Learn-Wise
+
+
+timeTrackTitle actiTIME - Enter Time-Track
+taskListTitle actiTIME - Task List
+reportTitle actiTIME - Reports Dashboard
+usersTitle actiTIME - User List
+customerName AnushaKB
